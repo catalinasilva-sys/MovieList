@@ -1,0 +1,156 @@
+[
+  {
+    "title": "Inception",
+    "description": "A skilled thief is given a chance at redemption if he can successfully perform an inception and plant an idea into a target's subconscious.",
+    "releaseDate": "2010-07-16",
+    "img": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "rating": 8.8,
+    "category": "Ciencia Ficción"
+  },
+  {
+    "title": "Titanic",
+    "description": "A romantic drama set against the backdrop of the tragic sinking of the Titanic.",
+    "releaseDate": "1997-12-19",
+    "category": "Drama",
+    "img": "https://pics.filmaffinity.com/Titanic-321994924-large.jpg",
+    "rating": 7.9
+  },
+  {
+    "title": "Forrest Gump",
+    "description": "A slow-witted but kind-hearted man witnesses and unwittingly influences historical events in the 20th century.",
+    "releaseDate": "1994-07-06",
+    "category": "Drama",
+    "img": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_.jpg ",
+    "rating": 8.8
+  },
+  {
+    "title": "A Beautiful Mind",
+    "description": "The story of John Nash, a brilliant mathematician who battles schizophrenia.",
+    "releaseDate": "2001-12-13",
+    "category": "Drama",
+    "img": "https://m.media-amazon.com/images/M/MV5BNzljZTk5ZDgtZTQ1Zi00NTM4LThlOGUtZDk2MGM4NDQ4NWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8.2
+  },
+  {
+    "title": "Birdman",
+    "description": "An actor famous for portraying a superhero tries to reclaim his career with a Broadway play.",
+    "releaseDate": "2014-08-27",
+    "category": "Drama",
+    "img": "https://m.media-amazon.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1_.jpg",
+    "rating": 7.7
+  },
+  {
+    "title": "The Dark Knight",
+    "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+    "releaseDate": "2008-07-18",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 9.0,
+    "category": "Acción"
+  },
+  {
+    "title": "Interstellar",
+    "description": "Astronauts travel through a wormhole to save humanity.",
+    "releaseDate": "2014-11-07",
+    "category": "Ciencia Ficción",
+    "img": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8.6
+  },
+  {
+    "title": "Pride and Prejudice",
+    "description": "A classic tale of love and misunderstandings in 19th-century England.",
+    "releaseDate": "2005-09-16",
+    "category": "Romance",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_.jpg",
+    "rating": 7.8
+  },
+  {
+    "title": "Superbad",
+    "description": "Two high school friends try to party before graduation.",
+    "releaseDate": "2007-08-17",
+    "category": "Comedia",
+    "img": "https://m.media-amazon.com/images/M/MV5BNjk0MzdlZGEtNTRkOC00ZDRiLWJkYjAtMzUzYTRiNzk1YTViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 7.6
+  },
+  {
+    "title": "El increíble castillo vagabundo",
+    "description": "After a witch transforms her into an old woman, a hat maker seeks refuge in the traveling home of a unique magician.",
+    "releaseDate": "2004-11-20",
+    "category": "Animación",
+    "img": "https://images.cdn3.buscalibre.com/fit-in/360x360/11/6f/116f01c74c7853cbcfc4f6da78d154be.jpg",
+    "rating": 7.8
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrant.",
+    "releaseDate": "2015-05-15",
+    "category": "Acción",
+    "img": "https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8.1
+  },
+  {
+    "title": "The Conjuring",
+    "description": "Paranormal investigators help a family terrorized by a dark presence.",
+    "releaseDate": "2013-07-19",
+    "category": "Terror",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 7.5
+  },
+  {
+    "id": "29c6a8e7-17b3-4dc4-9e8e-89d43c412154",
+    "title": "The Matrix",
+    "description": "A hacker discovers the shocking truth about his reality and joins a rebellion against machines enslaving humanity.",
+    "releaseDate": "1999-03-31",
+    "category": "Ciencia Ficción",
+    "img": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8.7
+  },
+  {
+    "id": "8e4c8a77-2904-4c85-8108-d74c9408a7c8",
+    "title": "Back to the Future",
+    "description": "A teenager accidentally travels back in time and must ensure his parents fall in love to save his future.",
+    "releaseDate": "1985-07-03",
+    "category": "Ciencia Ficción",
+    "img": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8.5
+  },
+  {
+    "title": "The Exorcist",
+    "description": "A young girl is possessed by a mysterious entity, and her mother seeks the help of two priests to save her.",
+    "releaseDate": "1973-12-26",
+    "category": "Terror",
+    "img": "https://m.media-amazon.com/images/M/MV5BZjg3YjE4ZjAtYTdmYS00ZTBkLWE1ZjgtNzAzODUwNzRiYjlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8.1
+  },
+  {
+    "title": "A Nightmare on Elm Street",
+    "description": "Teenagers are stalked by a vengeful spirit who kills them in their dreams.",
+    "releaseDate": "1984-11-09",
+    "category": "Terror",
+    "img": "https://m.media-amazon.com/images/M/MV5BNTZmN2VlMWMtMTdlMi00NDBhLWIyODMtODEwMzM0ODMwMWYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 7.4
+  },
+  {
+    "title": "El olvido que seremos",
+    "description": "The story of the father of a Colombian writer. His father was a university professor who promoted tolerance and human rights in his country.",
+    "releaseDate": "2020-08-22",
+    "category": "Colombianas",
+    "img": "https://www.proimagenescolombia.com/photos/57150_6927_imagen__.jpg",
+    "rating": 6.6
+  },
+  {
+    "title": "Nuestro Planeta",
+    "description": "The natural beauty of the planet and how climate change affects all living things, from the remote Arctic desert to the jungles of South America.",
+    "releaseDate": "2019-04-05",
+    "category": "Documental",
+    "img": "https://pics.filmaffinity.com/Nuestro_planeta_Serie_de_TV-103998601-large.jpg",
+    "rating": 8.5
+  },
+  {
+    "title": "Monos",
+    "description": "In an isolated mountainous area, eight armed teenage guerrillas hold an American engineer and a dairy cow captive.",
+    "releaseDate": "2019-09-13",
+    "category": "Colombianas",
+    "img": "https://www.proimagenescolombia.com/photos/57150_6154_imagen_270_400.jpg",
+    "rating": 6.4
+  }
+]

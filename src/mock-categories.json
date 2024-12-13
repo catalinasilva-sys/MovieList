@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "a5b87c1e-8a48-47a1-b736-3b6c330beb8f",
+    "category": "Colombianas"
+  },
+  {
+    "_id": "b2b680de-98a3-4fbb-9c21-3c9854e7a7d0",
+    "category": "Drama"
+  },
+  {
+    "_id": "7f3d51c7-8c85-4b4e-92d4-f594b9ae4020",
+    "category": "Acción"
+  },
+  {
+    "_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "category": "Ciencia Ficción"
+  },
+  {
+    "_id": "730e93c4-bf99-4880-aabe-0d98c8d4b0ad",
+    "category": "Romance"
+  },
+  {
+    "_id": "da57953b-fc3b-4c25-913b-9e9808d512df",
+    "category": "Comedia"
+  },
+  {
+    "_id": "f4ee7bcd-4458-44ab-8807-b8b85a3b9891",
+    "category": "Animación"
+  },
+  {
+    "_id": "7b16df58-8e3d-4d8a-bebe-7934f5f05e8e",
+    "category": "Documental"
+  },
+  {
+    "_id": "2a86b5a6-6583-4a77-b5b8-233f875af938",
+    "category": "Terror"
+  }
+]
